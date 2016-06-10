@@ -1,0 +1,16 @@
+{
+  "name": "sockdis",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Md Mahfuzur Rahman Siddiquee",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.13.4",
+    "redis": "~2.6.0-2",
+    "nodejs-websocket": "~1.6.0"
+  }
+}
